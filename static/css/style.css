@@ -8,3 +8,21 @@ body,
 html {
   height: 100%;
 }
+
+/*legend added to the map */
+/* text */
+.legend {
+  line-height: 18px;
+  color: black;
+  background-color: white;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+/* Legend */
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+}
